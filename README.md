@@ -22,3 +22,10 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=gunjapandey&show_icons=true&hide_border=true&theme=onedark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=onedark" width="48%" >
 <br>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gunjapandey&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=radical" alt="pratikgarai" /></td>
+   </tr>
+</table>
