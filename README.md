@@ -11,3 +11,7 @@
 <p align="center">
   <img alt="GIF" src="https://github.com/gunjapandey/gunjapandey/blob/main/gunja.gif" width="500px"/>
 </p>
+
+### 📫 Contact me:
+- LinkedIn : https://www.linkedin.com/in/gunjapandey/
+- Mail : gunjap9@gmail.com
