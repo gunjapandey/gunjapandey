@@ -15,3 +15,10 @@
 ### 📫 Contact me:
 - LinkedIn : https://www.linkedin.com/in/gunjapandey/
 - Mail : gunjap9@gmail.com
+
+##  Github Status:
+
+
+<img  src="https://github-readme-stats.vercel.app/api?username=gunjapandey&show_icons=true&hide_border=true&theme=onedark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=onedark" width="48%" >
+<br>
