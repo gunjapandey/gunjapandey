@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gunja Pandey</h1>
 <h3 align="center">CSE Student, VIT Chennai</h3>
-<br><br>
-
+<br>
 <p align="center">
   <img alt="GIF" src="https://github.com/gunjapandey/gunjapandey/blob/main/gunja.gif" width="500px"/>
 </p>
