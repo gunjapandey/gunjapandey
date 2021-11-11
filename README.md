@@ -25,3 +25,8 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=onedark" width="48%" >
 <br>
 
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=gunjapandey&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
