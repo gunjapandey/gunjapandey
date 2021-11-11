@@ -14,7 +14,7 @@
 
 ### 📫 Contact me:
 - LinkedIn : https://www.linkedin.com/in/gunjapandey/
-- Mail : gunjap9@gmail.com
+- CodeChef : https://www.codechef.com/users/thegunjapandey
 
 ##  Github Status:
 
