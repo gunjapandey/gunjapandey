@@ -4,6 +4,6 @@
 
 ### 🌱 I’m currently learning
 - Web Development
--Cloud Computing
+- Cloud Computing
 - Artificial Intelligence and Machine Learning
 - DSA and Competitive Coding
