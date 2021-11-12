@@ -29,3 +29,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunjapandey&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/gunjapandey/count.svg" />  
+</p>
+  
