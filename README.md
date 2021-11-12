@@ -41,7 +41,7 @@
 </p>
   
 <!--   Top Languages Used -->
-### 👨‍💻 Top Languages Used*:
+### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjapandey&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjapandey&theme=nord_dark)
 
