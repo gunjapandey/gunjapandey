@@ -30,8 +30,7 @@
 
 </div>
 
-  
-<div align=center>
+  <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
@@ -39,6 +38,7 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/gunjapandey/count.svg" />  
 </p>
+
   
 <!--   Top Languages Used -->
 ### 👨‍💻 Top Languages Used:
