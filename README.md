@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gunja Pandey</h1>
+<h1 align="center">Hi, I'm Gunja Pandey 👋</h1>
 <h3 align="center">CSE Student, VIT Chennai</h3>
 <br>
 <p align="center">
