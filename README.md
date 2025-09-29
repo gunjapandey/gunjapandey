@@ -1,12 +1,3 @@
-That's an excellent resume\! It clearly demonstrates strong experience in **Java, Spring Boot, AWS,** and **software quality improvement**.
-
-To incorporate this professional background into your GitHub README, I'll replace the generic skill sections with specific, high-impact details from your resume, creating a much more authentic and impressive profile.
-
-Here is the revised, resume-driven GitHub README, ready for you to use.
-
-## GitHub README (Resume-Optimized Software Engineer)
-
-```markdown
 <div align="center">
   <img src="https://media.giphy.com/media/Q84mIeB7jL8I6c9l0J/giphy.gif" width="300" alt="Developer Typing GIF" style="border-radius: 10px;">
 </div>
@@ -94,4 +85,3 @@ My recent activity, streak, and language usage are reflected below.
   <h6>Profile Visitor Count</h6>
   <img src="https://profile-counter.glitch.me/gunjapandey/count.svg" alt="Profile Views">
 </div>
-```
