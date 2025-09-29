@@ -1,67 +1,92 @@
+That's an excellent resume\! It clearly demonstrates strong experience in **Java, Spring Boot, AWS,** and **software quality improvement**.
+
+To incorporate this professional background into your GitHub README, I'll replace the generic skill sections with specific, high-impact details from your resume, creating a much more authentic and impressive profile.
+
+Here is the revised, resume-driven GitHub README, ready for you to use.
+
+## GitHub README (Resume-Optimized Software Engineer)
+
+```markdown
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5bHF2eXJ2NHkwNWx3OWFtbHl3bGR0YXVkajQ3ZnF6ZmcyOWJ2eSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/WwI0gB3B61D1e/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 10px;">
+  <img src="https://media.giphy.com/media/Q84mIeB7jL8I6c9l0J/giphy.gif" width="300" alt="Developer Typing GIF" style="border-radius: 10px;">
 </div>
 
 <h1 align="center">Hi, I'm Gunja Pandey 👋</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
-<p align="center">University College Dublin | Driven to build and innovate.</p>
+<h3 align="center">Master's in Computer Science | Software Engineer | UCD</h3>
+<p align="center">Building robust, scalable applications with a focus on Java, Spring Boot, and Cloud Architecture.</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Profile & Expertise
 
-I'm a passionate **Computer Science student** at **University College Dublin** with a strong focus on bridging theoretical knowledge with practical, real-world development. My goal is to leverage technology to solve complex problems and create impactful solutions.
+[cite_start]I am a highly driven Software Engineer currently pursuing a **Master's in Computer Science at University College Dublin**[cite: 19, 20]. [cite_start]I bring **2.5 years of experience** [cite: 9, 15] [cite_start]from **Bajaj Finserv Direct Limited**[cite: 4], specializing in high-performance system reliability, secure API integration, and cloud-native development.
 
-### 📚 Currently Leveling Up In:
-- **Cloud Computing** (Exploring AWS/Azure services)
-- **Web Development** (Building full-stack applications)
-- **Artificial Intelligence & Machine Learning** (Deep learning fundamentals)
-- **Data Structures, Algorithms (DSA) & Competitive Coding** (Sharpening problem-solving skills)
+### 💼 Career Highlights:
+- [cite_start]**System Reliability:** Resolved over **50 production issues** and integrated **secure RESTful APIs** to enhance system reliability and data protection[cite: 10].
+- [cite_start]**Cost & Efficiency Optimization:** Optimized the Motor Insurance journey by integrating **Signzy APIs**, resulting in a **33% cost reduction**[cite: 12].
+- [cite_start]**Code Quality & Delivery:** Leveraged **SonarQube** to cut bugs by **90%** and consistently achieved **100% user story completion** within sprint deadlines[cite: 17].
+- [cite_start]**Cloud & Architecture:** Experienced in high-level design discussions, code reviews, and documenting complex journeys using **Structurizr DSL**[cite: 11, 39].
+
+### 🛠️ Core Technical Stack:
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend & APIs** | [cite_start]**Java** [cite: 48][cite_start], **Spring Boot** [cite: 49][cite_start], **REST APIs** [cite: 49][cite_start], **gRPC** [cite: 49] |
+| **Cloud & DevOps** | [cite_start]**AWS** [cite: 51][cite_start], **Azure** [cite: 51][cite_start], **Docker, Kubernetes** [cite: 51][cite_start], Jenkins [cite: 8] |
+| **Testing** | [cite_start]**JUnit, Mockito** [cite: 49] |
+| **Tools & Version Control** | [cite_start]Git, Bitbucket [cite: 50][cite_start], JIRA [cite: 5][cite_start], Confluence [cite: 8] |
+| **Certifications** | [cite_start]AWS Cloud Practitioner [cite: 52] |
 
 ---
 
-## 🛠️ My GitHub Stats & Activity
+## 📈 GitHub Status & Contributions
 
-Take a look at my contributions and technical focus.
+My recent activity, streak, and language usage are reflected below.
 
 <div align="center">
-  
+
 | Activity & Streaks | Trophies & Stats |
 | :---: | :---: |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=gunjapandey&show_icons=true&hide_border=true&theme=vue-dark" alt="GitHub Stats" width="100%"> |
 
   <br/>
-  
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=gunjapandey&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
   <br/>
 
-### 📊 Language Focus & Usage
-  
-| Most Used Languages | Commits by Language |
+### 📊 Top Languages Used:
+
+| Repositories per Language | Most Committed Language |
 | :---: | :---: |
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjapandey&theme=vue-dark" alt="Repos Per Language" width="100%"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjapandey&theme=vue-dark" alt="Most Commit Language" width="100%"> |
 
   <br/>
-  
+
 ### 📈 GitHub Activity Graph:
-  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunjapandey&theme=dracula)
-  
+
 </div>
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on projects, discussing technology, and exploring new ideas. Feel free to reach out!
+[cite_start]I am actively pursuing my Master's and looking forward to future full-time roles in Software Engineering starting **September 2026**[cite: 27]. Connect with me to discuss opportunities, cloud architecture, or projects!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunjapandey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
+  <a href="mailto:gunja.pandey@ucdconnect.ie" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/gunjapandey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/gunjap9/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
   </a>
 </p>
 
@@ -69,3 +94,4 @@ I'm always open to collaborating on projects, discussing technology, and explori
   <h6>Profile Visitor Count</h6>
   <img src="https://profile-counter.glitch.me/gunjapandey/count.svg" alt="Profile Views">
 </div>
+```
