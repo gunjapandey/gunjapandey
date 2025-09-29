@@ -58,7 +58,7 @@ My recent activity, streak, and language usage are reflected below.
 
 ## 📫 Let's Connect!
 
-I am actively pursuing my Master's and looking forward to future full-time roles in Software Engineering starting **September 2026**. Connect with me to discuss opportunities, cloud architecture, or projects!
+I am actively pursuing my Master's and looking forward to internship roles in Software Engineering starting May and full-time roles starting **September 2026**. Connect with me to discuss opportunities, cloud architecture, or projects!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunjapandey/" target="_blank">
