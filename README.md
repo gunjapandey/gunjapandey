@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Q84mIeB7jL8I6c9l0J/giphy.gif" width="300" alt="Developer Typing GIF" style="border-radius: 10px;">
-</div>
-
 <h1 align="center">Hi, I'm Gunja Pandey 👋</h1>
 <h3 align="center">Master's in Computer Science | Software Engineer | UCD</h3>
 <p align="center">Building robust, scalable applications with a focus on Java, Spring Boot, and Cloud Architecture.</p>
@@ -10,10 +6,10 @@
 
 ## 🚀 Professional Profile & Expertise
 
-[cite_start]I am a highly driven Software Engineer currently pursuing a **Master's in Computer Science at University College Dublin**[cite: 19, 20]. [cite_start]I bring **2.5 years of experience** [cite: 9, 15] [cite_start]from **Bajaj Finserv Direct Limited**[cite: 4], specializing in high-performance system reliability, secure API integration, and cloud-native development.
+[cite_start]I am a highly driven Software Engineer currently pursuing a **Master's in Computer Science at University College Dublin**[cite: 19, 20]. [cite_start]I bring **2.5 years of experience** from **Bajaj Finserv Direct Limited**[cite: 4], specializing in high-performance system reliability, secure API integration, and cloud-native development.
 
 ### 💼 Career Highlights:
-- [cite_start]**System Reliability:** Resolved over **50 production issues** and integrated **secure RESTful APIs** to enhance system reliability and data protection[cite: 10].
+- [cite_start]**System Reliability:** Resolved over **50 production issues** and integrated **secure RESTful APIs**, enhancing system reliability and data protection[cite: 10].
 - [cite_start]**Cost & Efficiency Optimization:** Optimized the Motor Insurance journey by integrating **Signzy APIs**, resulting in a **33% cost reduction**[cite: 12].
 - [cite_start]**Code Quality & Delivery:** Leveraged **SonarQube** to cut bugs by **90%** and consistently achieved **100% user story completion** within sprint deadlines[cite: 17].
 - [cite_start]**Cloud & Architecture:** Experienced in high-level design discussions, code reviews, and documenting complex journeys using **Structurizr DSL**[cite: 11, 39].
@@ -22,11 +18,11 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend & APIs** | [cite_start]**Java** [cite: 48][cite_start], **Spring Boot** [cite: 49][cite_start], **REST APIs** [cite: 49][cite_start], **gRPC** [cite: 49] |
-| **Cloud & DevOps** | [cite_start]**AWS** [cite: 51][cite_start], **Azure** [cite: 51][cite_start], **Docker, Kubernetes** [cite: 51][cite_start], Jenkins [cite: 8] |
+| **Backend & APIs** | [cite_start]**Java** [cite: 48][cite_start], **Spring Boot** [cite: 49][cite_start], **REST APIs, gRPC** [cite: 49] |
+| **Cloud & DevOps** | [cite_start]**AWS, Azure** [cite: 51][cite_start], **Docker, Kubernetes** [cite: 51][cite_start], Jenkins [cite: 8] |
 | **Testing** | [cite_start]**JUnit, Mockito** [cite: 49] |
-| **Tools & Version Control** | [cite_start]Git, Bitbucket [cite: 50][cite_start], JIRA [cite: 5][cite_start], Confluence [cite: 8] |
-| **Certifications** | [cite_start]AWS Cloud Practitioner [cite: 52] |
+| **Tools & Version Control** | [cite_start]Git [cite: 50][cite_start], Bitbucket [cite: 50][cite_start], JIRA [cite: 5] |
+| **Certifications** | [cite_start]**AWS Cloud Practitioner** [cite: 52] |
 
 ---
 
@@ -38,7 +34,7 @@ My recent activity, streak, and language usage are reflected below.
 
 | Activity & Streaks | Trophies & Stats |
 | :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=gunjapandey&show_icons=true&hide_border=true&theme=vue-dark" alt="GitHub Stats" width="100%"> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjapandey&theme=blood-orange&hide_border=true" alt="GitHub Streak" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=gunjapandey&show_icons=true&hide_border=true&theme=buefy" alt="GitHub Stats" width="100%"> |
 
   <br/>
 
@@ -50,13 +46,13 @@ My recent activity, streak, and language usage are reflected below.
 
 | Repositories per Language | Most Committed Language |
 | :---: | :---: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjapandey&theme=vue-dark" alt="Repos Per Language" width="100%"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjapandey&theme=vue-dark" alt="Most Commit Language" width="100%"> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjapandey&theme=chartreuse-dark" alt="Repos Per Language" width="100%"> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjapandey&theme=chartreuse-dark" alt="Most Commit Language" width="100%"> |
 
   <br/>
 
 ### 📈 GitHub Activity Graph:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunjapandey&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunjapandey&theme=github-dark)
 
 </div>
 
