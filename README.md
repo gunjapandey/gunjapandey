@@ -6,23 +6,21 @@
 
 ## 🚀 Professional Profile & Expertise
 
-[cite_start]I am a highly driven Software Engineer currently pursuing a **Master's in Computer Science at University College Dublin**[cite: 19, 20]. [cite_start]I bring **2.5 years of experience** from **Bajaj Finserv Direct Limited**[cite: 4], specializing in high-performance system reliability, secure API integration, and cloud-native development.
+I am a highly driven Software Engineer currently pursuing a Master's in Computer Science at University College Dublin. I bring 2.5 years of experience from Bajaj Finserv Direct Limited, specializing in high-performance system reliability, secure API integration, and cloud-native development.
 
 ### 💼 Career Highlights:
-- [cite_start]**System Reliability:** Resolved over **50 production issues** and integrated **secure RESTful APIs**, enhancing system reliability and data protection[cite: 10].
-- [cite_start]**Cost & Efficiency Optimization:** Optimized the Motor Insurance journey by integrating **Signzy APIs**, resulting in a **33% cost reduction**[cite: 12].
-- [cite_start]**Code Quality & Delivery:** Leveraged **SonarQube** to cut bugs by **90%** and consistently achieved **100% user story completion** within sprint deadlines[cite: 17].
-- [cite_start]**Cloud & Architecture:** Experienced in high-level design discussions, code reviews, and documenting complex journeys using **Structurizr DSL**[cite: 11, 39].
+* System Reliability: Resolved over 50 production issues and integrated secure RESTful APIs, enhancing system reliability and data protection.
+* Cost & Efficiency Optimization: Optimized the Motor Insurance journey by integrating Signzy APIs, resulting in a 33% cost reduction.
+* Code Quality & Delivery: Leveraged SonarQube to cut bugs by 90% and consistently achieved 100% user story completion within sprint deadlines.
+* Cloud & Architecture: Experienced in high-level design discussions, code reviews, and documenting complex journeys using Structurizr DSL.
 
 ### 🛠️ Core Technical Stack:
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend & APIs** | [cite_start]**Java** [cite: 48][cite_start], **Spring Boot** [cite: 49][cite_start], **REST APIs, gRPC** [cite: 49] |
-| **Cloud & DevOps** | [cite_start]**AWS, Azure** [cite: 51][cite_start], **Docker, Kubernetes** [cite: 51][cite_start], Jenkins [cite: 8] |
-| **Testing** | [cite_start]**JUnit, Mockito** [cite: 49] |
-| **Tools & Version Control** | [cite_start]Git [cite: 50][cite_start], Bitbucket [cite: 50][cite_start], JIRA [cite: 5] |
-| **Certifications** | [cite_start]**AWS Cloud Practitioner** [cite: 52] |
+* **Backend & APIs:** Java, Spring Boot, REST APIs, gRPC
+* **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Jenkins
+* **Testing:** JUnit, Mockito
+* **Tools & Version Control:** Git, Bitbucket, JIRA, Confluence
+* **Certifications:** AWS Cloud Practitioner
 
 ---
 
@@ -60,7 +58,7 @@ My recent activity, streak, and language usage are reflected below.
 
 ## 📫 Let's Connect!
 
-[cite_start]I am actively pursuing my Master's and looking forward to future full-time roles in Software Engineering starting **September 2026**[cite: 27]. Connect with me to discuss opportunities, cloud architecture, or projects!
+I am actively pursuing my Master's and looking forward to future full-time roles in Software Engineering starting **September 2026**. Connect with me to discuss opportunities, cloud architecture, or projects!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gunjapandey/" target="_blank">
